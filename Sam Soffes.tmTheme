@@ -432,10 +432,23 @@
 			<string>punctuation.section.embedded.ruby</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#FFFADE</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#999999</string>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Embedded Ruby</string>
+			<key>scope</key>
+			<string>text source.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFADE</string>
 			</dict>
 		</dict>
 		<dict>
