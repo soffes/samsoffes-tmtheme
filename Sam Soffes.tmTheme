@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>GitHub</string>
+	<string>Sam Soffes</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F8F8FF</string>
+				<string>#FFFFFF</string>
 				<key>caret</key>
 				<string>#000000</string>
 				<key>foreground</key>
@@ -648,6 +648,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>26786979-843B-4FE2-BCB6-4FCEC6F8FB58</string>
+	<string>FA2EAE24-B796-4014-9BAE-210B22EB99DC</string>
 </dict>
 </plist>
