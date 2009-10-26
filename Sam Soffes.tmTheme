@@ -427,21 +427,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>erb tags</string>
-			<key>scope</key>
-			<string>punctuation.section.embedded.ruby</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#FFFADE</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#000000</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Embedded Ruby</string>
 			<key>scope</key>
 			<string>text source.ruby</string>
@@ -455,11 +440,11 @@
 			<key>name</key>
 			<string>ruby string interpolation</string>
 			<key>scope</key>
-			<string>source.ruby.embedded.source punctuation.section.embedded.ruby</string>
+			<string>constant.character.escaped, constant.character.escape, string source, string source.ruby</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CF1040</string>
+				<string>#7B0826</string>
 			</dict>
 		</dict>
 		<dict>
